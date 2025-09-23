@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# Proyectos
+
+**Proyectos en java**
+- *AlbaranesApp*
+
+**Proyectos en C# Y XAML (Avalonia)**
+- *Gestión de bolígrafos (Bindings)*
+
 <!--
 **41lici61/41lici61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
