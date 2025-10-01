@@ -6,7 +6,7 @@
 - [*AlbaranesApp*](https://github.com/41lici61/AlbaranesApp)
 
 **Proyectos en C# Y XAML (Avalonia)**
-- [*Gestión de bolígrafos (Bindings)*](https://github.com/41lici61/Bindings)
+- [*Gestión de bichitos (Bindings)*](https://github.com/41lici61/Bichitos)
 
 <!--
 **41lici61/41lici61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
